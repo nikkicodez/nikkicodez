@@ -18,7 +18,7 @@
 
 
 - 🌱 I’m a full Fun Stack Developer!
-- 💬 Ask me about anything [here](https://discord.gg/vbTY9vGQhG)
+- 💬 Ask me about anything [here](https://discord.gg/6EnCsMwK)
 - 🥅 2022 Goals: Make some awesome Discord Bots.
 
 
